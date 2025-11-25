@@ -41,7 +41,7 @@ cargo run
 ## Visual Elements
 
 - Stars: Various sizes (·, •, ✦) with twinkling effects
-- Shooting Stars: ☄ with trailing particles
+- Shooting Stars: meteors with trailing particles
 - Satellites: ◆ with blinking lights
 
 ## Requirements
