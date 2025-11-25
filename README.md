@@ -2,6 +2,8 @@
 
 A beautiful terminal-based night sky visualization built with Ratatui.
 
+![Screenshot](ex.png)
+
 ## Features
 
 - **Twinkling Stars**: Stars with different brightness levels that twinkle at various speeds
@@ -39,7 +41,7 @@ cargo run
 ## Visual Elements
 
 - Stars: Various sizes (·, •, ✦) with twinkling effects
-- Shooting Stars: meteors with trailing particles
+- Shooting Stars: ☄ with trailing particles
 - Satellites: ◆ with blinking lights
 
 ## Requirements
