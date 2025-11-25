@@ -1,0 +1,14 @@
+[package]
+name = "nightsky-tui"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "nk"
+path = "src/main.rs"
+
+[dependencies]
+ratatui = "0.28"
+crossterm = "0.28"
+rand = "0.8"
+
